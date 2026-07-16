@@ -1,0 +1,5 @@
+{
+  "name": "SecurePass Generator",
+  "description": "A high-security, customizable random password generator with granular control over character types and specific special characters.",
+  "requestFramePermissions": []
+}
